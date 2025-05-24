@@ -1,0 +1,8 @@
+Patterns used in Group5_Final_Project:
+1. DAO
+2. Builder
+3. Simple Factory
+4. Adapter
+5. Observer
+6. Command
+7. Strategy
