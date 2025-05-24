@@ -11,3 +11,8 @@
 •	Completed core features using Java Servlets, JDBC, and SQL for user authentication, vehicle management, GPS tracking, and break logging, resulting in a functional transit management system
 
 ![Login_Register Page](images/Login_Register.png)
+![Transit Manager Page](images/TransitManagerPage.png)
+![Vehicle Managerment Page](images/VehicleManagement.png)
+![GPS Tracking](images/GPS Tracking.png)
+![Operator Page](images/OperatorPage.png)
+![Log Break Page](images/LogBreakPage.png)
